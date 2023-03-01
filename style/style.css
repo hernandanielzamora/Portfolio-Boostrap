@@ -467,7 +467,6 @@ li {
   }
 
   /* Aboutme - Skills */
-  
   .skills-container {
     display: flex;
     justify-content: space-between;
@@ -505,7 +504,6 @@ li {
     margin-left: 23%;
     font-size: 1.3em;
   }
-
 }
 
 .card-group-container {

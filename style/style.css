@@ -266,7 +266,6 @@ li {
   margin: 5% 0;
 }
 
-
 /* Desktop Version */
 
 /* QUERY 1440 -> 2560 */
@@ -301,7 +300,6 @@ li {
   }
 
   /* Main Section */
-
 
   .main-container {
     display: grid;
@@ -431,9 +429,8 @@ li {
     margin-right: 50%;
   }
 
-  
-
   /* About Me Section */
+
   .aboutme-section {
     margin-top: 10%;
     background-image: url(../media/aboutme-big-background.png);
@@ -470,6 +467,7 @@ li {
   }
 
   /* Aboutme - Skills */
+  
   .skills-container {
     display: flex;
     justify-content: space-between;
@@ -508,9 +506,7 @@ li {
     font-size: 1.3em;
   }
 
-
 }
-
 
 .card-group-container {
   margin: 5%;
